@@ -1,5 +1,5 @@
 
-在hbase 0.94.7 上测试通过
+test pass on hbase 0.94.7
 tutorial
 ========
 
